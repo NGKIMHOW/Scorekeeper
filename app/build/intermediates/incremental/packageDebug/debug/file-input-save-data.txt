@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 23 20:54:21 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\NG KIM HOW\\Downloads\\android-fundamentals-apps-v2-master\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
